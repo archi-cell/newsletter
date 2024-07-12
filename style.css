@@ -1,0 +1,63 @@
+header{
+    height: 400px; 
+}
+
+nav{
+    background-color: black;
+    display: flex;
+    color: white;
+    font-size: 60px;
+    
+}
+
+p{
+    max-width: 400px;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    gap: 1rem;
+    line-height: 2;
+}
+
+a{
+    text-decoration: none;
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+.paragraph{
+    height: 400px;
+    font-size: 30px;
+    display: flex;
+}
+
+.content{
+    height: 200px;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+}
+
+footer{
+    height: 400px;
+    background-color: black;
+    color: white;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+}
+
+ul1{
+    padding: 50px;
+    text-align:center;
+    line-height: 2;
+    
+}
+li{
+    padding: 10px;
+}
+

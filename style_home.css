@@ -1,0 +1,30 @@
+header{
+    height: 200px;
+    background-color: black;
+    color: rgb(246, 14, 14);
+    display: flex;
+    font-size: 70px;
+    
+}
+p{
+    margin-left: 400px;
+}
+
+.content{
+    height: 1000px;
+    background-color: rgba(247, 247, 174, 0.364);
+    margin-top: 10px;
+}
+.content1{
+    height: 50px;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color:blue;
+}
